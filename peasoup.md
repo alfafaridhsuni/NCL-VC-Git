@@ -3,4 +3,4 @@
 - spring onions (3.45)
 - potatoes (1.99)
 #Instructions
-
+- shell the peas
